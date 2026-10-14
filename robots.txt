@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pamir12.github.io/etalon/sitemap.xml
